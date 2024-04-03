@@ -1,4 +1,4 @@
-### Hey Sourav here 👋
+### Hi, i'm Daniel 👋
 
 ---
 I am an economist with knowledge and experience in Data Analysis and Web Development.
